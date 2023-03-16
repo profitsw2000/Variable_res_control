@@ -1,18 +1,18 @@
 <ASSEMBLER_INFO>
- <VERSION>2.2.7</VERSION>
+ <VERSION>2.2.8</VERSION>
  <DEVICE>"ATmega16"</DEVICE>
- <WORKING_DIR>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\Debug</WORKING_DIR>
+ <WORKING_DIR>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\Debug</WORKING_DIR>
  <INCLUDE_PATH>
   <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
   <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
   <DIR></DIR>
  </INCLUDE_PATH>
- <SOURCE_FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</SOURCE_FILE>
+ <SOURCE_FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</SOURCE_FILE>
  <INCLUDED_FILES>
   <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16def.inc</FILE>
  </INCLUDED_FILES>
  <OBJECT_FILES>
-  <FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\Debug\Variable_res_control.obj</FILE>
+  <FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\Debug\Variable_res_control.obj</FILE>
  </OBJECT_FILES>
  <HEX_FILES>
   <FILE>Variable_res_control.hex</FILE>
@@ -22,20 +22,20 @@
   <FILE>Variable_res_control.lss</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <reset><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>32</LINE></reset>
-  <Timer2><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>144</LINE></Timer2>
-  <Timer0><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>120</LINE></Timer0>
-  <main><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>63</LINE></main>
-  <check_right_button_off><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>87</LINE></check_right_button_off>
-  <check_left_button_off><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>92</LINE></check_left_button_off>
-  <check_left_button_state><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>79</LINE></check_left_button_state>
-  <set_shift_registers><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>98</LINE></set_shift_registers>
-  <Timer2_ON><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>110</LINE></Timer2_ON>
-  <Timer2_OFF><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>115</LINE></Timer2_OFF>
-  <set_clk_high><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>167</LINE></set_clk_high>
-  <set_sdi_high><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>159</LINE></set_sdi_high>
-  <set_clk_low><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>161</LINE></set_clk_low>
-  <inc_count_reg><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>170</LINE></inc_count_reg>
-  <exit_timer_2><FILE>D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>176</LINE></exit_timer_2>
+  <reset><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>33</LINE></reset>
+  <Timer2><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>145</LINE></Timer2>
+  <Timer0><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>121</LINE></Timer0>
+  <main><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>64</LINE></main>
+  <check_right_button_off><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>88</LINE></check_right_button_off>
+  <check_left_button_off><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>93</LINE></check_left_button_off>
+  <check_left_button_state><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>80</LINE></check_left_button_state>
+  <set_shift_registers><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>99</LINE></set_shift_registers>
+  <Timer2_ON><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>111</LINE></Timer2_ON>
+  <Timer2_OFF><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>116</LINE></Timer2_OFF>
+  <set_clk_high><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>168</LINE></set_clk_high>
+  <set_sdi_high><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>160</LINE></set_sdi_high>
+  <set_clk_low><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>162</LINE></set_clk_low>
+  <inc_count_reg><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>171</LINE></inc_count_reg>
+  <exit_timer_2><FILE>C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm</FILE><LINE>177</LINE></exit_timer_2>
  </LABELS>
 </ASSEMBLER_INFO>

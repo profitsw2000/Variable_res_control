@@ -12,6 +12,7 @@
 .equ	RBP				=	0
 .equ	LBP				=	1
 
+.def	reg_0			=	r0
 .def	templ			=	r16
 .def	temph			=	r17
 .def	state_flag		=	r18

@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.2.7  D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variable_res_control\main.asm Thu Dec 13 14:42:15 2018
+AVRASM ver. 2.2.8  C:\PROJECTS\AVRStudio\Asm\Variable_res_control\Variable_res_control\main.asm Thu Mar 16 21:48:07 2023
 
 [builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16def.inc'
 [builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16def.inc'
@@ -883,6 +883,7 @@ AVRASM ver. 2.2.7  D:\PROJECTS_HFSS\Atmel Studio\Asm\Variable_res_control\Variab
                                  .equ	RBP				=	0
                                  .equ	LBP				=	1
                                  
+                                 .def	reg_0			=	r0
                                  .def	templ			=	r16
                                  .def	temph			=	r17
                                  .def	state_flag		=	r18
